@@ -10,7 +10,7 @@ namespace Person.Infra.Data
         public static readonly string MIGRATIONS_HISTORY_TABLE = "_EFMigrationHistory";
 
         public Context(DbContextOptions<Context> options) : base(options)
-        {
+        { 
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
