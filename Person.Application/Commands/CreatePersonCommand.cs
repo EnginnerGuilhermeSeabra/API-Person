@@ -1,5 +1,4 @@
-﻿using Person.Application.Commands.Dtos;
-using Person.Infra.Validator;
+﻿using Person.Infra.Validator;
 
 namespace Person.Application.Commands
 {
